@@ -5,7 +5,7 @@
 ### In this application, we implement the MVC (Model-View-Controller) design pattern.
 
 
-### Game Preview
+## Game Preview
 <img width="385" alt="math-quizzler" src="https://github.com/oatwarat/Math-Quizzler/assets/92809570/6b8315d2-768e-4b6a-b024-753eeb8007e8">
 
 
